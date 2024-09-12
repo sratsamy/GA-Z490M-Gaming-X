@@ -1,6 +1,23 @@
 Based off of https://github.com/Baio1977/GA-Z490M-Gaming-X
 
-# Computer Spec:
+Motherboard was Gigabyte Z490M rev 1.0, F22 Bios. 
+https://www.gigabyte.com/Motherboard/Z490M-rev-10#kf
+| Component        | Brank                              
+| ---------------- | ---------------------------------- 
+| Scheda Madre     | GA Z490M rev 1.0 (BIOS F22)         
+| CPU              | Intel i9-10850                      
+| IGPU             | Intel® UHD Graphics 630            
+| GPU              |   
+| Audio            | Realtek ALC1200A                   
+| Ram              | 64 Gb DDR4 3200 Mhz                
+| Wifi + Bluetooth |                       
+| NVMe             |               
+| SmBios           | IMac 20.2                          
+| BootLoader       | OpenCore 1.0.1                           
+
+
+This is different than Baio1977's GA Z490M Gaming X
+# Baio1977 Computer Spec:
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
