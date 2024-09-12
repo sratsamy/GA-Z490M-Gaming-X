@@ -8,7 +8,7 @@ https://www.gigabyte.com/Motherboard/Z490M-rev-10#kf
 | CPU              | Intel i9-10850                      
 | IGPU             | Intel® UHD Graphics 630            
 | GPU              | None
-| Audio            | Realtek ALC1200A                   
+| Audio            | Realtek® ALC887 codec                   
 | Ram              | 64 Gb DDR4 3200 Mhz
 | Network          | Intel® GbE LAN chip
 | Wifi + Bluetooth | None                      
