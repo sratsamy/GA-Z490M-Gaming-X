@@ -7,11 +7,12 @@ https://www.gigabyte.com/Motherboard/Z490M-rev-10#kf
 | Scheda Madre     | GA Z490M rev 1.0 (BIOS F22)         
 | CPU              | Intel i9-10850                      
 | IGPU             | Intel® UHD Graphics 630            
-| GPU              |   
+| GPU              | None
 | Audio            | Realtek ALC1200A                   
-| Ram              | 64 Gb DDR4 3200 Mhz                
-| Wifi + Bluetooth |                       
-| NVMe             |               
+| Ram              | 64 Gb DDR4 3200 Mhz
+| Network          | Intel® GbE LAN chip
+| Wifi + Bluetooth | None                      
+| NVMe             | WD Blue™ SN550 NVMe™ SSD - 1TB              
 | SmBios           | IMac 20.2                          
 | BootLoader       | OpenCore 1.0.1                           
 
